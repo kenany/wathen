@@ -1,7 +1,5 @@
 # wathen
 
-[![Build Status][travis-svg]][travis]
-
 [Wathen's formula][1] for calculating one-repetition maximum.
 
 ## Example
@@ -32,5 +30,3 @@ maximum as a _Number_.
 
 
    [1]: https://en.wikipedia.org/wiki/One-repetition_maximum#Wathen
-   [travis]: https://travis-ci.org/KenanY/wathen
-   [travis-svg]: https://img.shields.io/travis/KenanY/wathen.svg
