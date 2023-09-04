@@ -5,7 +5,7 @@
   "keywords": [
     "weight-training"
   ],
-  "repository": "KenanY/wathen",
+  "repository": "github:kenany/wathen",
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "main": "index.js",
