@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/kenany/wathen/compare/2.0.0...2.0.1) (2023-09-04)
+
+
+### Bug Fixes
+
+* correct "repository" field ([fe5dd50](https://github.com/kenany/wathen/commit/fe5dd509bce78ae20918bf5ce7c21a3187b42b62))
+
 ## [2.0.0](https://github.com/KenanY/wathen/compare/1.0.1...2.0.0) (2023-09-04)
 
 
